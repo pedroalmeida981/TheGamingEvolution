@@ -15,3 +15,6 @@
 *.suo
 *.user
 *.userprefs
+
+# Machine-specific Unity Editor preferences
+/UserSettings/
