@@ -51,7 +51,7 @@ Because the repository mixes many modules and assets, ownership/origin and activ
 - **3D:** collectible triggers, player movement, win condition and scene flow.
 - **Cross-scene:** menu navigation, input consistency, loading failures and frame-rate differences.
 
-See [Interview and QA notes](docs/INTERVIEW_PREP.md). These are suggested checks, not recorded test results.
+These are suggested checks, not recorded test results.
 
 ## Portfolio context
 
